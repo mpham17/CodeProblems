@@ -28,6 +28,6 @@
                 "$msCompile"
             ],
             "group": "build"
-        },
+        }
     ]
 }
