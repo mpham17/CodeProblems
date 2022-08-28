@@ -16,7 +16,9 @@
         "type_traits": "cpp",
         "utility": "cpp",
         "xlocnum": "cpp",
-        "xiosbase": "cpp"
+        "xiosbase": "cpp",
+        "ios": "cpp",
+        "system_error": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
