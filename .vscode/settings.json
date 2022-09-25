@@ -18,7 +18,8 @@
         "xlocnum": "cpp",
         "xiosbase": "cpp",
         "ios": "cpp",
-        "system_error": "cpp"
+        "system_error": "cpp",
+        "cmath": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
