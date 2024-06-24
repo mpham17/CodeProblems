@@ -28,6 +28,22 @@
                 "$msCompile"
             ],
             "group": "build"
+        },
+        {
+            "type": "cppbuild",
+            "label": "Build C++20",
+            "command": "g++-14",
+            "args": [
+                "-std=c++20",
+                "${file}",
+                "-o",
+                "${fileDirname}/${fileBasenameNoExtension}"
+            ],
+            "group": "build",
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "detail": "Generated task by user."
         }
     ]
 }
