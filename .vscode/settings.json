@@ -19,7 +19,13 @@
         "xiosbase": "cpp",
         "ios": "cpp",
         "system_error": "cpp",
-        "cmath": "cpp"
+        "cmath": "cpp",
+        "queue": "cpp",
+        "stack": "cpp",
+        "iosfwd": "cpp",
+        "__split_buffer": "cpp",
+        "deque": "cpp",
+        "list": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
